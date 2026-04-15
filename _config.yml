@@ -1,0 +1,15 @@
+title: "Camille Clayton - AI & Cloud Solutions Engineer"
+email: camilleclayton89@gmail.com
+description: "Portfolio of Camille Clayton, an AI and Cloud Solutions Engineer, Engineering Manager, and co-founder of WGXC. Showcasing expertise in Kubernetes, AWS, Azure, automation, and technical leadership."
+baseurl: "/github-page-demo-camclay" # Set to repository name for GitHub Pages
+url: "https://camclay.github.io" # Your GitHub Pages URL
+author: "Camille Clayton"
+# Optional: Add social links for easy access in templates
+linkedin_username: camilleclayton
+github_username: camclay
+devto_username: camclay
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-minima-theme

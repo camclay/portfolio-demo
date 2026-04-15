@@ -1,0 +1,95 @@
+# _data/profile.yml
+about:
+  name: Camille Clayton
+  tagline: "AI & Cloud Solutions Engineer | Engineering Manager | WGXC Co-founder"
+  summary: "DC located, technology fascinated. I design automation and cloud solutions. A non-profit co-founder for Women and Gender eXpansive Coders (WGXC), leading over 800 members. Experienced Principal Engineer focused on AI Infrastructure and Solutions, managing technical teams, and contributing to successful consulting bids. Passionate about hiking and painting."
+
+contact:
+  email: camilleclayton89@gmail.com
+  linkedin: https://www.linkedin.com/in/camilleclayton
+  github: https://github.com/camclay
+  blog: https://dev.to/camclay
+
+skills:
+  top:
+    - AI Solutions
+    - Technical Leadership
+    - Nonprofit Leadership
+    - Cloud Solutions (AWS, Azure)
+    - Automation
+  technical:
+    - Kubernetes
+    - Hybrid Cloud Strategy
+    - Microservice Delivery
+    - Terraform
+    - Jenkins
+    - GitOps
+    - AWS EKS / Rancher
+    - Serverless Technologies
+    - VMWare
+    - Cisco Networking
+
+certifications:
+  - Designing Distributed Systems
+
+experience:
+  - title: Engineering Manager, Kubernetes Infrastructure
+    company: Ticketmaster
+    duration: April 2022 - Present (4 years 1 month)
+    location: Remote / Global
+    description:
+      - "Lead a globally distributed team to support infrastructure across multiple continents, with a hybrid cloud strategy."
+      - "Enable ticket delivery and entry to events on 5 continents."
+      - "Support best practices in microservice delivery on Kubernetes."
+      - "Work with key vendors to vision new features, supporting continued explosive growth."
+  - title: Innovation Lead
+    company: Pluribus Digital
+    duration: April 2020 - April 2022 (2 years 1 month)
+    location: Washington, District of Columbia, United States
+    description:
+      - "Led operational discovery during contract migration while supporting a full operational shift to remote for a Federal client."
+      - "Built a team of engineers to provide external and internal support, including training and documentation."
+  - title: Network Design Engineer
+    company: SAIC / Unisys
+    duration: January 2019 - April 2020 (1 year 3 months)
+    location: Washington, District of Columbia, United States
+    description:
+      - "Managed cloud and on-premise infrastructure (AWS, Azure, Dell VMWare, Cisco)."
+      - "Developed and analyzed infrastructure for modernization and cost reduction."
+      - "Managed Kubernetes migration from Red Hat OpenShift to AWS EKS and Rancher, leveraging Terraform, Jenkins, and GitOps for 9 applications."
+      - "Designed and led development of an in-house On-Call system using AWS serverless, saving $1240/month."
+      - "Led Cloud Cost Savings initiatives across 4 environments, saving over $170,000 annually."
+
+community_leadership:
+  - organization: Women and Gender eXpansive Coders (WGXC)
+    role: Co-founder & Leader
+    description: "Co-founded and lead a non-profit organization with over 800 members, fostering an inclusive community for women and gender expansive individuals in tech. Involved in organizing events, mentorship, and community building."
+
+projects:
+  highlights:
+    - name: Big O (Go)
+      link: https://github.com/camclay/bigo
+      description: "A project focusing on Big O notation and algorithm efficiency in Go."
+    - name: Shuttle (Objective-C)
+      link: https://github.com/camclay/shuttle
+      description: "Forked SSH shortcut menu for macOS, demonstrating Objective-C skills."
+    - name: WordPress Backup (Shell Script)
+      link: https://github.com/camclay/wordpress-backup
+      description: "Shell script for automating WordPress backups."
+    - name: Config Scripts (Shell Script)
+      link: https://github.com/camclay/config-scripts
+      description: "Repository for various configuration scripts."
+  github_profile: https://github.com/camclay
+  github_achievements:
+    - Pair Extraordinaire (x2)
+    - YOLO
+    - Pull Shark (x2)
+    - Arctic Code Vault Contributor
+
+education:
+  - degree: Computer Engineering (Attended)
+    institution: Oklahoma State University
+    duration: 2007 - 2008
+  - degree: High School Diploma
+    institution: Oakland Mills High School
+    duration: 2003 - 2007
